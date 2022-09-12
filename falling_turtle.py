@@ -9,7 +9,7 @@ border.hideturtle()
 border.width(5)
 border.color('green')
 border.penup()
-border.goto(-1000, -500)
+border.goto(-950, -500)
 border.pendown()
 border.goto(1000, -500)
 
